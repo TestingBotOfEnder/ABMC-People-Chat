@@ -1,6 +1,6 @@
-# Discord-like Chat Application
+# Chat Application
 
-This project aims to develop a complete Discord-like chat application with a backend and frontend. Below you will find the structure of the project.
+This project aims to develop a complete  chat application with a backend and frontend. Below you will find the structure of the project.
 
 ## Project Structure
 - **backend/**: Node.js/Express server with real-time communication.
